@@ -1,0 +1,81 @@
+body{
+	background-color: lightgrey;
+
+}
+header{
+	background-color: lightgrey;
+	color: black;
+	border: 0px;
+	padding-right: 30px;
+	padding-inline-end: 0px;
+
+	display: flex;
+	flex-direction: column;
+}
+
+#header__logo{
+	background-color:white;
+	display: flex;
+	justify-content: flex-start;
+}
+div{
+	background-color: green;
+	display: flex;
+	justify-content: flex-end;
+	
+}
+
+
+.navbar{
+	padding: 0px;
+
+}
+a.nav-link{ row-gap: 24px }
+
+
+h1{
+	
+	display: flex;
+	justify-content: flex-start;
+}
+h2{
+	color: #0D6EFD;
+	background-color: lightgrey;
+	display: flex;
+	flex-direction: column;
+	
+}
+
+
+.form-label{
+	background-color: lightgrey;
+	display: flex;
+	flex-direction: row;
+}
+
+.mb-3{
+	color: #0D6EFD;
+	background-color: lightgrey;
+	width: 500px;
+	display: flex;
+	flex-direction: column;
+}
+.form-check-label{
+	background-color: lightgrey;
+}
+
+.form-text{
+	background-color: lightgrey;
+	display: flex;
+	flex-direction: row-reverse;
+}
+
+
+section{
+
+	background-color: lightgrey;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
